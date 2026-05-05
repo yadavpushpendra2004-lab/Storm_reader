@@ -1,0 +1,17 @@
+# Security: Do NOT push your API keys
+.env
+
+# Database: Keep your local notes/highlights private
+*.db
+storm_reader.db
+
+# Python overhead
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# OS specific files
+.DS_Store
+Thumbs.db
